@@ -1,2 +1,2 @@
 # quantacus-email-campaign-analysis
-Quantacus.ai ML Internship Assignment: Email Marketing Campaign Analysis
+Quantacus.ai ML Assignment: Email Marketing Campaign Analysis
