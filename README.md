@@ -20,3 +20,4 @@ This project analyzes an email marketing campaign dataset provided by Quantacus.
 - Google Colab
 
 ## 📂 Folder Structure
+ ├── Quantacus_Assignment.ipynb ├── data/ │ ├── email_table.csv │ ├── email_opened_table.csv │ └── link_clicked_table.csv └── images/
